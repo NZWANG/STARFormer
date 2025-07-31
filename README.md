@@ -1,5 +1,8 @@
 # STARFormer
 This repo is the official implementation of Spatio-Temporal Aggregation Reorganization Transformer of FMRI for Brain Disorder Diagnosis.
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-red.svg)](https://pytorch.org/)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ![STARFormer](STARFormer.png)
 
