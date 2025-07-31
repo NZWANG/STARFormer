@@ -25,6 +25,17 @@ nilearn~=0.10.1
 tqdm~=4.66.2
 pandas~=1.3.5
 ```
+Alternatively, you can choose to run the following code to install the required environment:
+```
+pip install -r requirements.txt
+```
+
+# Data
+```
+The data used in our work are from [ADHD-200][(https://adni.loni.usc.edu/)](https://fcon_1000.projects.nitrc.org/indi/adhd200/). and [ABIDE](http://preprocessed-connectomes-project.org/abide/). Please follow the relevant regulations to download from the websites.
+```
+
+
 
 # Training
 python tester.py
